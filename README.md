@@ -91,6 +91,24 @@ OPENAI_API_KEY=your API KEY  (Never commit your API Key)
 
 
 Running the Application
+
+## Demo (CLI)
+Example flow:
+1. Select a document from the list (e.g., `pharma_supply_chain.txt`)
+2. Ask a question
+3. Receive a structured answer with supporting excerpts
+
+Example question:
+- *Which regulatory requirements are mentioned in the document?*
+## Notes
+- The application uses a context size limit to avoid excessive token usage for long documents.
+- Answers are designed to be document-grounded. If the information is not found, the assistant should respond accordingly.
+
+
+
+
+
+
 .\.venv\Scripts\python.exe app.py
 
 You will be prompted to:
