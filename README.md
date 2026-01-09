@@ -104,11 +104,6 @@ Example question:
 - The application uses a context size limit to avoid excessive token usage for long documents.
 - Answers are designed to be document-grounded. If the information is not found, the assistant should respond accordingly.
 
-
-
-
-
-
 .\.venv\Scripts\python.exe app.py
 
 You will be prompted to:
