@@ -1,0 +1,22 @@
+Pharmaceutical Supply Chain Overview
+
+This document describes a simplified pharmaceutical supply chain process for a medicine distribution company.
+
+The company sources pharmaceutical products from certified manufacturers and distributes them to pharmacies, hospitals, and healthcare providers across multiple European countries.
+
+Key steps in the supply chain include:
+- Supplier qualification and contract management
+- Procurement of pharmaceutical products
+- Storage under regulated temperature conditions
+- Batch tracking and serialization
+- Distribution to customers
+
+Regulatory compliance is a critical aspect of the supply chain. All products must comply with GDP (Good Distribution Practice) guidelines. Documentation must be maintained for audits, including temperature logs, batch numbers, and delivery records.
+
+Common challenges in the pharmaceutical supply chain include:
+- Ensuring product availability
+- Managing recalls efficiently
+- Maintaining full traceability
+- Reducing delivery delays
+
+The company aims to improve transparency and efficiency by using digital tools and intelligent systems to analyze documentation and operational data.
